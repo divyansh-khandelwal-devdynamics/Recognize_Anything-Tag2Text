@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 import argparse
-import json
-import os
-import time
+import jsond
+import osd
+import timed
 
 import imghdr
 import torch
